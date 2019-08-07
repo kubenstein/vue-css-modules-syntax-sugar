@@ -10,12 +10,10 @@
     "parcel-bundler": "^1.12.3",
     "postcss-modules": "^1.4.1",
     "vue": "^2.6.10",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.3"
   },
   "postcss": {
     "modules": true
-  },
-  "dependencies": {
-    "vue-hot-reload-api": "^2.3.3"
   }
 }
