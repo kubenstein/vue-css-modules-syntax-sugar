@@ -1,7 +1,6 @@
 {
   "version": "1.0.0",
   "name": "vue-css-modules-syntax-sugar",
-  "private": true,
   "scripts": {
     "serve": "parcel --port 3000 --out-dir .cache/_build/ src/index.html",
     "build": "parcel build --out-dir dist/ src/index.html"
