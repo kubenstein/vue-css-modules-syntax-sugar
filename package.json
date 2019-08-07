@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "css-modules-vue-better-syntax",
+  "name": "vue-css-modules-syntax-sugar",
   "private": true,
   "scripts": {
     "serve": "parcel --port 3000 --out-dir .cache/_build/ src/index.html",
